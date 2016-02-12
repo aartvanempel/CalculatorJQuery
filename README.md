@@ -1,1 +1,1 @@
-Simpel rekenmachientje in javascript.
+Simpel rekenmachientje in jQuery.
